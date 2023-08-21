@@ -50,11 +50,34 @@ header{
     font-size: 20px;
 }
 
+.tema__titulo2{
+    color: var(--branco-principal);
+    font-size: 20px;
+    padding-top: 180px;
+}
+
+
+
 .tema__descricao{
     color: var(--branco-principal);
     font-size: 30px;
+    padding-top: 30px;
 }
 
+.tema__descricao2s{
+    color: var(--branco-principal);
+    font-size: 30px;
+    padding-top: 30px;
+}
+.lista{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.ttema__paragrafo2{
+    padding-top: 9990x;
+
+}
 
 @media screen and (min-width: 820px) {
     
